@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
         if (!mapIsInited) {
-            MapKitFactory.setApiKey("cfde7a2d-be94-40b4-828b-c81de333aa5d");
+            MapKitFactory.setApiKey("some_API_key");
             MapKitFactory.initialize(this);
             mapIsInited = true;
         }
