@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Карты</string>
+    <string name="location1" >Париж</string>
+    <string name="location2" >Казахстан</string>
+    <string name="location3" >Ирландия</string>
+    <string name="location4" >Храм Христа Спасителя</string>
+    <string name="location5" >Сочи</string>
+    <string name="location6" >Ж/Д музей в СПб</string>
+    <string name="location7" >Озеро Белё</string>
+    <string name="location8" >Башня святого Олафа</string>
+</resources>
